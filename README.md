@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# Virtual-world-interactive-device-based-on-VLM
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🌟 3D Virtual World Construction and Interaction: Vue+ThreeJs
+
+## 🌟 Hand-Drawn Manuscript to 2D Specific Style Plant Images: Stable Diffusion + ControlNet
+
+## 🌟 2D Plants Images to 3D Plant Objects: DreamGaussian+stable-zero123
+
+## 🌟 Examples see File public
+
+Run on: Torch 2.1 & CUDA 12.1 on a 4090.
+
